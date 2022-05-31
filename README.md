@@ -1,21 +1,15 @@
 ## @xylocone/block-utils
 
----
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 - Exposes binaries that help in developing Gutenberg blocks and Block themes.
 - Conceived as a dependency for `@xylocone/create-block-theme` package, but can also be used independently with a file structure similar to `create-block-theme`'s.
-
----
 
 ## Installation
 
 ```bash
 npm install -g @xylocone/block-utils
 ```
-
----
 
 ## Exposed Binaries
 
@@ -56,8 +50,6 @@ npm install -g @xylocone/block-utils
    ```
    export-theme-zip
    ```
-
----
 
 ## License
 
