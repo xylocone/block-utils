@@ -1,7 +1,7 @@
 {
   "name": "@xylocone/block-utils",
   "version": "v0.0.0-alpha",
-  "description": "A utility package to speed-up building Gutenberg blocks",
+  "description": "A utility package to help build Gutenberg blocks and/or Block themes",
   "main": "./package/index.js",
   "type": "module",
   "bin": {
